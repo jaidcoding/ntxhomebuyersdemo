@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
 import Info from '../components/InfoBox';
 import Trust from '../components/TrustBox';
+import FastBox from '../components/FastBox';
 
 export default function Home() {
   return (
@@ -11,6 +12,8 @@ export default function Home() {
       <Hero />
       <Info />
       <Trust />
+      <FastBox />
+
     </main>
   );
 }
