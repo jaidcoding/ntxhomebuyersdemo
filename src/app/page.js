@@ -6,6 +6,7 @@ import Trust from '../components/TrustBox';
 import FastBox from '../components/FastBox';
 import Troubles from '../components/Troubles';
 import Reviews from '../components/Reviews';
+import FAQ from '../components/FAQ';
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <FastBox />
       <Troubles />
       <Reviews />
+      <FAQ />
     </main>
   );
 }
