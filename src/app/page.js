@@ -2,6 +2,7 @@ import Image from "next/image";
 import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
 import Info from '../components/InfoBox';
+import Trust from '../components/TrustBox';
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Info />
+      <Trust />
     </main>
   );
 }
