@@ -10,7 +10,7 @@ export default function Info() {
                 <PhoneIcon className="h-12 w-12 mb-5" />
                 <h2 className="text-2xl text-center font-bold">Contact us</h2>
                 <p className="text-center pl-20 pr-20 mt-5 text-lg">
-                    We will ask some questions about the property, it's condition, and learn about your situation.
+                    We will ask some questions about the property, it&apos;s condition, and learn about your situation.
                 </p>
             </div>
         </div>

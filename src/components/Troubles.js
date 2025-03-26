@@ -56,7 +56,7 @@ export default function Troubles() {
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold text-gray-900 mb-3">We Buy Houses in Any Condition</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            No matter your situation, we're here to help you sell your house quickly and hassle-free
+            No matter your situation, we&apos;re here to help you sell your house quickly and hassle-free
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
