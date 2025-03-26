@@ -36,7 +36,7 @@ export default function Hero() {
             <div className="flex  space-x-4">
               <button className="bg-blue-600 text-white px-8 py-4 rounded-lg hover:bg-blue-700 transition-colors flex items-center space-x-3 text-lg md:text-xl">
                 <PhoneIcon className="h-6 w-6" />
-                <span>(817)-587-8264</span>
+                <span>(123)-456 -7890</span>
               </button>
             </div>
           </div>
